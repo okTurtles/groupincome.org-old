@@ -13,3 +13,9 @@ A `group income` ___(n)___ is a fair income sharing mechanism that allows groups
 
 - Website: __[groupincome.org](http://groupIncome.org)__
 - Twitter: __[@Group_Income](https://twitter.com/Group_Income)__
+
+### Contributing
+
+__This project uses [Hexo](https://hexo.io/) to generate the HTML from the `index.md` files inside `/source`!__
+
+So if you want to translate this webpage, or update it, __please focus on `index.md` files.__
