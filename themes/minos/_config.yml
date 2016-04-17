@@ -1,0 +1,18 @@
+# Header
+logo_text: # Add text logo instead of logo image
+menu:
+  Home: /
+  FAQ: /FAQ
+  # Archives: archives
+  # Categories: categories
+  # Tags: tags
+  okTurtles: https://okturtles.com
+
+# Content
+excerpt_link: Read More
+toc: false #  Whether to show the table of contents in articles
+# fancybox: true
+
+# Miscellaneous
+# google_analytics:
+favicon: /favicon.ico
