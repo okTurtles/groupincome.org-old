@@ -7,12 +7,13 @@ title: Group Income
 subtitle: Voluntary Automated Decentralized Basic Income
 description:
 author: okTurtles Foundation
+author_url: https://okturtles.org
 language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://groupcurrency.org
+url: http://groupcurrency.org/
 root: /
 permalink: :title/
 permalink_defaults:
