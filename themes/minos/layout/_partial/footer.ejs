@@ -1,0 +1,11 @@
+<footer id="footer">
+  <% if (theme.sidebar === 'bottom'){ %>
+    <%- partial('_partial/sidebar') %>
+  <% } %>
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2015 &#45; <%= date(new Date(), 'YYYY') %> <%- link_to(config.author_url, config.author) %> <br/>
+      <div id="credits">Using <a href="https://github.com/ppoffice/hexo-theme-minos">Minos</a> <a href="http://hexo.io/" target="_blank">Hexo</a> theme</div>
+    </div>
+  </div>
+</footer>
