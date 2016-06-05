@@ -1,0 +1,20 @@
+# Minos theme configuration
+
+# Header
+logo_text: # Add text logo instead of logo image
+menu:
+  # Home: /
+  # FAQ: /FAQ
+  # Blog: /blog
+  # Categories: categories
+  # Tags: tags
+  # okTurtles: https://okturtles.com
+
+# Content
+excerpt_link: Read more…
+toc: false #  Whether to show the table of contents in articles
+# fancybox: true
+
+# Miscellaneous
+# google_analytics:
+favicon: /favicon.ico
