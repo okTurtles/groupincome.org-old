@@ -5,7 +5,7 @@ logo_text: # Add text logo instead of logo image
 menu:
   # Home: /
   # FAQ: /FAQ
-  # Blog: /blog
+  Blog: /blog
   # Categories: categories
   # Tags: tags
   # okTurtles: https://okturtles.com
