@@ -1,3 +1,7 @@
+---
+comments: false
+---
+
 A `Group Income` **_(n)_** is a fair income sharing mechanism that allows groups to provide their members with a **[basic income](https://en.wikipedia.org/wiki/Basic_income)**. To provide a basic income to its members, a group will need:
 
 1. sufficient monetizeable value
